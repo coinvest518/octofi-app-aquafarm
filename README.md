@@ -1,4 +1,4 @@
-# OctoFi dApp
+# OctoFi forked MetaSwap dApp
 
 <p>
   <a href="">
@@ -14,7 +14,7 @@
 
 <p>✨ <strong>OctoFi dApp</strong> is a dashboard for tracking your DeFi portfolio, finding new investment opportunities, buy / sell directly and wrap your tentacles around a sea of gains. We built this interface with our mission in mind, creating something simple to use and adding our salt & pepper to the DeFi revolution ✨</p>
 
-[Launch OctoFi dApp][dapp]
+[Launch OctoFi forked dApp][dapp]
 
 ## Features
 * 🔩 <strong>Simple: </strong> Even a shrimp understands
